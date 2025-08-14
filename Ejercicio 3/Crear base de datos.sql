@@ -1,0 +1,4 @@
+CREATE DATABASE IF NOT EXISTS rachas_db CHARACTER SET utf8mb4;
+USE rachas_db;
+
+
