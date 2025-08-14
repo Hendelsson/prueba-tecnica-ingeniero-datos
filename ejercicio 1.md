@@ -240,6 +240,3 @@ def clean_phone_data(raw_data):
 3. **Escalabilidad** → Azure Synapse auto-scaling + serverless SQL
 4. **Compliance** → Azure Policy + Azure Purview para data governance
 
----
-
-Esta solución proporciona un framework escalable y automatizado que cumple con estándares de la industria para gestión de datasets críticos, incorporando mejores prácticas de DataOps y governance.
