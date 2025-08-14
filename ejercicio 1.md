@@ -47,11 +47,10 @@ Diseñar un proceso automatizado con CI/CD para crear, validar y mantener un dat
 ## Validación y Calidad de Datos
 
 ### Reglas de Validación
-1. **Formato E.164**: `^\+[1-9]\d{1,14}$`
-2. **Máximo 3 números por cliente**
-3. **Un número principal obligatorio**
-4. **Coherencia geográfica** (código país vs. perfil cliente)
-5. **Números no verificados >90 días → inactivos**
+1. **Máximo 3 números por cliente**
+2. **Un número principal obligatorio**
+3. **Coherencia geográfica** (código país vs. perfil cliente)
+4. **Números no verificados >90 días → inactivos**
 
 ### Métricas de Calidad
 | Métrica | Target | Cálculo |
