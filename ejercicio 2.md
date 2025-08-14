@@ -389,7 +389,3 @@ GROUP BY metric_date;
 | **Total** | **~$900/mes** |
 
 **ROI estimado**: 300% en el primer año considerando ahorro en campañas y mejora en customer experience.
-
----
-
-Esta solución proporciona visibilidad completa sobre la calidad del dataset de teléfonos, empodera a los equipos de negocio con self-service analytics, y establece un framework escalable para governance de datos.
